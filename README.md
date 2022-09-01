@@ -1,1 +1,2 @@
 # chatbot
+Chatbots are programs that simulate human conversation. This chatbot is hybrid type(rule based and handling context using machine learning models). In this chatbot, I am using rasa, which is an open-source framework to build text and voice-based chatbots. It's working at Level 3 of conversational AI, where the bot can understand the context. A level 3 conversational agent can handle things like the user changing their mind, handling context and even unexpected queries.
